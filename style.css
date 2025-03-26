@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #857c78;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -125,13 +125,13 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #000000;
     border: none;
     font-weight: bold;
 }
